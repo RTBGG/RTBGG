@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👀 I’m interested in Web Hosting, Web Development and Tech in general.
-- 📫 You can contact me on Discord - RTB#0001.
+- 📫 You can contact me on Discord: rtbgg
 
 <!--
 **RTBGG/RTBGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
